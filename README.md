@@ -5,6 +5,12 @@ A new Flutter project.
 ## LogIn
 ![Screenshot 2024-12-04 064756](https://github.com/user-attachments/assets/f2dd1b3e-58a3-4b57-8aff-a75d69184452)
 
+## SinIN
+
+![Screenshot 2024-12-04 064731](https://github.com/user-attachments/assets/5a69970a-4bdc-408a-9219-bbedf9555698)
+
+## Home
+![Screenshot 2024-12-04 065246](https://github.com/user-attachments/assets/7946c603-72a1-4276-be7d-8d4ebafe5838)
 
 
 
